@@ -1,0 +1,11 @@
+{
+  "name": "structures-data",
+  "module": "index.js",
+  "type": "module",
+  "devDependencies": {
+    "bun-types": "^1.0.3"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  }
+}
